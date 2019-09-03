@@ -2,66 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b25866a3-0f39-4b04-9539-8431ca4e8b6d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/diana/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/diana/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/diana/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/diana/src/main/java/Nume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/diana/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/diana/src/main/java/PersonUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/diana/src/main/java/Piramida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/diana/src/main/java/Piramida2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/unit-converter/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/unit-converter/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/unit-converter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/unit-converter/src/main/java/com/mcserby/training/ConversionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/unit-converter/src/main/java/com/mcserby/training/ConverterEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/unit-converter/src/main/java/com/mcserby/training/SyntaxParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/unit-converter/src/main/java/com/mcserby/training/exceptions/ParsingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/unit-converter/src/test/java/ConverterEngineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/unit-converter/src/test/java/SyntaxParserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/unit-converter/unit-converter/src/test/java/com/mcserby/training/UnitConverterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/Arrays/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/ComputeArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/DataObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/EX3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/Ex3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/Pitagora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/Say.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/SayBye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/SayDiana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/main/java/SayHi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/test/java/ComputeAreaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/src/test/java/PitagoraTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recap1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/P1/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/P1/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/P1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/P1/Price.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/P1/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/Recap1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/src/main/java/P1/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/src/main/java/P1/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/src/main/java/P1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/src/main/java/P1/Price.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recap1/src/main/java/P1/Table.java" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/window.state.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P2/src/main/java/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P2/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P2/src/main/java/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P2/src/main/java/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P2/src/test/java/ParkingLotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P3/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P3/src/main/java/Drive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P3/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P3/src/main/java/PartTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P3/src/test/java/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recap1/target/classes/P1/Chair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recap1/target/classes/P1/Furniture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recap1/target/classes/P1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recap1/target/classes/P1/Price$Currency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recap1/target/classes/P1/Price.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recap1/target/classes/P1/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P1/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/P1/src/main/java/P1/Chair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P1/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/P1/src/main/java/P1/Furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/P1/src/main/java/P1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P1/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/P1/src/main/java/P1/Price.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/P1/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/P1/src/main/java/P1/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Recap1/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/P1/target/" />
+    <ignored path="$PROJECT_DIR$/P2/target/" />
+    <ignored path="$PROJECT_DIR$/P3/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,94 +44,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Recap$CarTest.ic" NAME="CarTest Coverage Results" MODIFIED="1567516028204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Recap$CarTest_testIsWorking.ic" NAME="CarTest.testIsWorking Coverage Results" MODIFIED="1567516004456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Furniture.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/P1/Furniture.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-              <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Price.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/P1/Price.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-              <folding>
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Table.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/P1/Table.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="30" />
-              <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chair.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/P1/Chair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-              <folding>
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/P1/Main.java">
+        <entry file="file://$PROJECT_DIR$/P3/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -166,12 +64,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_COMMON_BRANCH" value="master" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -181,7 +83,22 @@
         <option value="$PROJECT_DIR$/src/main/java/P1/Table.java" />
         <option value="$PROJECT_DIR$/src/main/java/P1/Chair.java" />
         <option value="$PROJECT_DIR$/src/main/java/P1/Main.java" />
+        <option value="$PROJECT_DIR$/P1/pom.xml" />
+        <option value="$PROJECT_DIR$/P1/src/main/java/P1/Main.java" />
+        <option value="$PROJECT_DIR$/P2/src/main/java/Parking.java" />
+        <option value="$PROJECT_DIR$/P2/src/main/java/Bus.java" />
+        <option value="$PROJECT_DIR$/P2/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/P2/src/main/java/ParkingLot.java" />
+        <option value="$PROJECT_DIR$/P2/src/main/java/Vehicle.java" />
+        <option value="$PROJECT_DIR$/P2/src/main/java/Car.java" />
+        <option value="$PROJECT_DIR$/P2/src/test/java/ParkingLotTest.java" />
+        <option value="$PROJECT_DIR$/P3/src/test/java/CarTest.java" />
+        <option value="$PROJECT_DIR$/P3/src/main/java/Drive.java" />
+        <option value="$PROJECT_DIR$/P3/src/main/java/Car.java" />
+        <option value="$PROJECT_DIR$/P3/src/main/java/PartTwo.java" />
+        <option value="$PROJECT_DIR$/P3/src/test/java/PartTwoTest.java" />
+        <option value="$PROJECT_DIR$/P3/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -197,12 +114,7 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Recap" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Recap" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="P3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -219,50 +131,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Recap1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recap1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recap1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recap1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recap1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recap1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recap1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recap1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recap1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recap1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="Recap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diborcea\Desktop\TRAINEE\4-JAVA\Recap\P1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -276,20 +175,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1.Main" />
-      <module name="Recap1" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="P3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="P1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="P3" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CarTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CarTest.testIsWorking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="P3" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CarTest" />
+      <option name="METHOD_NAME" value="testIsWorking" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ParkingLotTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="P2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParkingLotTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ParkingLotTest.parkVehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="P2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParkingLotTest" />
+      <option name="METHOD_NAME" value="parkVehicleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -329,14 +290,25 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.ParkingLotTest" />
+      <item itemvalue="JUnit.ParkingLotTest.parkVehicleTest" />
+      <item itemvalue="JUnit.CarTest.testIsWorking" />
+      <item itemvalue="JUnit.CarTest" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CarTest" />
+        <item itemvalue="JUnit.CarTest.testIsWorking" />
+        <item itemvalue="JUnit.ParkingLotTest" />
+        <item itemvalue="JUnit.ParkingLotTest.parkVehicleTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\diborcea\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -348,46 +320,113 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CarTest - 2019.09.03 at 15h 14m 18s.xml">
+      <configuration name="CarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest - 2019.09.03 at 15h 14m 53s.xml">
+      <configuration name="CarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest - 2019.09.03 at 15h 16m 12s.xml">
+      <configuration name="CarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest_testIsWorking - 2019.09.03 at 15h 25m 56s.xml">
+      <configuration name="CarTest.testIsWorking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest_testIsWorking - 2019.09.03 at 15h 26m 18s.xml">
+      <configuration name="CarTest.testIsWorking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest - 2019.09.03 at 15h 27m 22s.xml">
+      <configuration name="CarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest_testIsWorking - 2019.09.03 at 15h 27m 36s.xml">
+      <configuration name="CarTest.testIsWorking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest_testIsWorking - 2019.09.03 at 15h 27m 46s.xml">
+      <configuration name="CarTest.testIsWorking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest_testIsWorking - 2019.09.03 at 16h 06m 46s.xml">
+      <configuration name="CarTest.testIsWorking" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarTest - 2019.09.03 at 16h 07m 10s.xml">
+      <configuration name="CarTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4989339" weight="0.3278867" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32897604" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.16044776" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010661" side_tool="true" weight="0.32897604" />
+      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.49837664" visible="true" weight="0.20682302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32897604" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5016234" side_tool="true" visible="true" weight="0.20682302" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06982943" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1924307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3278867" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second and third problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second and third problems" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/P3/src/test/java/CarTest.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/P3/src/main/java/Drive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P3/src/main/java/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1312#1313#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
+            <element signature="e#1387#1388#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -395,77 +434,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Furniture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Price.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Table.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Chair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Furniture.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Price.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Table.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Chair.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Main.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="656">
@@ -473,81 +446,155 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Furniture.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Furniture.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Price.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Table.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Chair.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Main.java" />
+    <entry file="file://$PROJECT_DIR$/P1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/P1/src/main/java/P1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P1/src/main/java/P1/Chair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P2/src/main/java/Parking.java" />
+    <entry file="file://$PROJECT_DIR$/P2/src/main/java/Main.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="374">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Price.java">
+    <entry file="file://$PROJECT_DIR$/P3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P2/src/main/java/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P2/src/main/java/ParkingLot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P2/src/main/java/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P2/src/main/java/Bus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Table.java">
+    <entry file="file://$PROJECT_DIR$/P2/src/test/java/ParkingLotTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="230">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Chair.java">
+    <entry file="file://$PROJECT_DIR$/P3/src/test/java/CarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="816">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
           <folding>
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/P1/Main.java">
+    <entry file="file://$PROJECT_DIR$/P3/src/test/java/PartTwoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P3/src/main/java/PartTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P3/src/main/java/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1312#1313#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
+            <element signature="e#1387#1388#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P3/src/main/java/Drive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P3/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>
